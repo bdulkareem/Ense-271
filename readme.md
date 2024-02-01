@@ -1,5 +1,5 @@
 # Github Repo 
 
-welcome to my Girhub 
-this is where my codfe lives 
-This is a deom for ENSE 271 Lan 1 
+welcome to my Github 
+This is where my code lives 
+This is a demo for ENSE 271 Lab 1 
