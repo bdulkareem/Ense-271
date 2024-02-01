@@ -1,3 +1,3 @@
 Hello 
-Throught this test I will include the features I used
+Throught this text I will include the features I used
 The features I used are: estimated time, personas, colour and a staus of the task 
