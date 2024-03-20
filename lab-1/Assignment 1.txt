@@ -1,9 +1,0 @@
-Hello 
-Throught this text I will include the features I used
-The features I used are: estimated time, personas, colour and a staus of the task 
-For tehe rstimated time it shows how much time it should take in order for the task to be done, an example of that would be like 2 hours
-For Personas, that feature letr's you create a person and chose an avatar and then you can assign this person to task, an example of that would be the the image of the person that was in the detailed picture
-The Colour feature let's me choose a colour so you can diffrenciate between all tasks and it makes it more nice and attractive
-Status of task would show you if it's done, ready, doing or to do. 
-These are all the features I have used
-
